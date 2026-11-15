@@ -1,0 +1,2 @@
+# bcave-glossary
+mining-glossary
